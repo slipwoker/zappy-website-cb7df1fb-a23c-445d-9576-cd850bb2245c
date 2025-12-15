@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://snoophotdog-cb7df1fb.zappy5.app/sitemap.xml
